@@ -1,0 +1,223 @@
+.u-section-1 {
+  background-image: url("images/landing-Guatemala_1940x640_soloFondo1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1194px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 825px;
+  height: 589px;
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 14px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 451px;
+  height: auto;
+  width: 795px;
+  margin: -521px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Allerta;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+  margin: -506px auto 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  min-height: 102px;
+  margin: 478px 814px 0 166px;
+}
+
+.u-section-1 .u-custom-html-3 {
+  min-height: 102px;
+  margin: -102px 668px 0 312px;
+}
+
+.u-section-1 .u-custom-html-4 {
+  min-height: 102px;
+  margin: -102px 518px 0 462px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Allerta;
+  width: 527px;
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 249px;
+  height: 105px;
+  margin: 14px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  margin: 30px 105px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1078px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    height: auto;
+    margin-right: 714px;
+    margin-left: 66px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    height: auto;
+    margin-right: 568px;
+    margin-left: 212px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    height: auto;
+    margin-right: 418px;
+    margin-left: 362px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1128px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 560px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 419px;
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 269px;
+    margin-left: 293px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1228px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 380px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 235px;
+    margin-left: 146px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 85px;
+    margin-left: 296px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1417px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 663px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+    margin-top: -594px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -520px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-top: 470px;
+    margin-right: 180px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 38px;
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-top: -41px;
+    margin-right: 180px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    margin-top: 1px;
+  }
+}.button {
+	box-shadow:inset 0px 43px 0px -24px #e67a73;
+	background-color:#e4685d;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.button:hover {
+	background-color:#eb675e;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+        
+}
+.button1.border-radius.px {
+}
