@@ -1,13 +1,9 @@
- var key = "UecJhidW7PfNtTCKnWk4kXH0NPu7J6M0"
+ var key = "UecJhidW7PfNtTCKnWk4kXH0NPu7J6M0";
 
     var encrypted = u;
-    console.log(encrypted.toString());
 
     var decrypted = CryptoJS.AES.decrypt(encrypted, key);
     var hmac = decrypted.toString(CryptoJS.enc.Utf8);
-    console.log(hmac);
-    document.write('{"token":','"',hmac,'"}');
-    //console.log(decrypted.toString(CryptoJS.enc.Utf8));
 
 		var playerInstance = jwplayer("player");
 		playerInstance.setup({
